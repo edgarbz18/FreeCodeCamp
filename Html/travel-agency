@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="This is a agency travel page for the smile every day">
+  </head>
+  <body>
+    <h1>Travelers world</h1>
+    <p>This is the best oportinities fotr the trip with us for more experincies</p>
+    <h2>Packages</h2>
+    <p>the bes form to enjoy the life is trip so we have a lot trip types of you with a lot packages than you enjoy a lot</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries<h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://assets.voxcity.com/uploads/blog_images/What-is-the-first-place-to-visit-when-you-travel-to-Rome_original.jpg" alt="coliseo"></a>
+      <figcaption>Roma - Italy</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://tourismmedia.italia.it/is/image/mitur/1600X900_venezia_san_marco_gabbiano-2?wid=1600&hei=900&fit=constrain,1&fmt=webp" alt="venecia"></a>
+      <figcaption>Venecia - Italy</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn-imgix.headout.com/microbrands-content-image/image/70c7e9051c3411a0653fa26b23c7bd6c-history%20of%20Vatican%20City.jpeg" alt="vaticano"></a>
+      <figcaption>Vaticano - Italy </figcaption>
+    </figure>
+  </body>
+</html>
